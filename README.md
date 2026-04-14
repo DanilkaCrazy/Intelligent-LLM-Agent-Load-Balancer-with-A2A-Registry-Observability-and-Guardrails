@@ -129,6 +129,14 @@ agent-platform/
 ├── package.json               # Зависимости и скрипты
 └── README.md                  # Этот файл
 ```
+## Примеры дизайна сервиса
+<img width="849" height="511" alt="Снимок экрана 2026-04-14 103144" src="https://github.com/user-attachments/assets/bfc50509-1a51-452a-a710-becc1239dbf5" />
+
+<img width="842" height="373" alt="Снимок экрана 2026-04-14 104556" src="https://github.com/user-attachments/assets/72931147-fd47-4ffb-85d1-d9f612b38b98" />
+
+<img width="832" height="386" alt="Снимок экрана 2026-04-14 104606" src="https://github.com/user-attachments/assets/4878fe5e-f2e3-4408-b4a0-1e8b8cc7442b" />
+
+<img width="832" height="334" alt="Снимок экрана 2026-04-14 104615" src="https://github.com/user-attachments/assets/99218954-ace4-42e7-a645-6c53f3e66521" />
 
 ## 📚 Документация
 
