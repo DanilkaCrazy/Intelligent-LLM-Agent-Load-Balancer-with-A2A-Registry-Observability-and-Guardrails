@@ -130,7 +130,7 @@ agent-platform/
 └── README.md                  # Этот файл
 ```
 ## Примеры дизайна сервиса
-<img width="842" height="514" alt="image" src="https://github.com/user-attachments/assets/7c531a86-a7f2-48d8-8191-701d4baf2928" />
+<img width="838" height="354" alt="image" src="https://github.com/user-attachments/assets/7332e8b3-d70e-4d53-94ed-b5a736046e8f" />
 
 <img width="832" height="386" alt="Снимок экрана 2026-04-14 104606" src="https://github.com/user-attachments/assets/4878fe5e-f2e3-4408-b4a0-1e8b8cc7442b" />
 
