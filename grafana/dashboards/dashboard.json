@@ -1,0 +1,25 @@
+{
+  "title": "Agent Platform Dashboard",
+  "panels": [
+    {
+      "type": "timeseries",
+      "title": "Request Rate",
+      "targets": [
+        {
+          "expr": "rate(agent_platform_requests_total[1m])",
+          "legendFormat": "{{provider}} - {{status}}"
+        }
+      ]
+    },
+    {
+      "type": "timeseries",
+      "title": "Latency (p95)",
+      "targets": [
+        {
+          "expr": "histogram_quantile(0.95, sum(rate(agent_platform_response_latency_seconds_bucket[5m])) by (le, provider))",
+          "legendFormat": "{{provider}}"
+        }
+      ]
+    }
+  ]
+}
